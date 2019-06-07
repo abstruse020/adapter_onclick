@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "527698665186",
+    "firebase_url": "https://binge-internship-assign.firebaseio.com",
+    "project_id": "binge-internship-assign",
+    "storage_bucket": "binge-internship-assign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527698665186:android:51113bb916db16ad",
+        "android_client_info": {
+          "package_name": "com.example.harshpandey.binge_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527698665186-sdmgtmvitl0rvt0okeffq0ilt96eoptj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harshpandey.binge_assignment",
+            "certificate_hash": "86a16917f55adce7134177dd9aa2f9ef1f405584"
+          }
+        },
+        {
+          "client_id": "527698665186-9mmoo50vhualbd6p4d4ofodjdbgonrk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfCjXecP-RysVlOatpHAB08dOggBL9r2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527698665186-9mmoo50vhualbd6p4d4ofodjdbgonrk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
